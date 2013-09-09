@@ -106,13 +106,13 @@
 
             if (state[j][i] !== '.') {
 
-              var piece            = document.createElement('span');
+              var piece            = document.createElement('sc-chesspiece');
+              piece.setAttribute('symbol', state[j][i]);
+              piece.setAttribute('size',   '200%');
 
               piece.style.position = 'absolute';
-              piece.style.top      = ((7-j)-0.1).toString() + 'em';
-              piece.style.left     = (i+0.1).toString() + 'em';
-              piece.style.fontSize = '200%';
-              piece.innerHTML      = toPiece(state[j][i]);
+              piece.style.top      = ((7-j)*2).toString() + 'em';
+              piece.style.left     = (i*2).toString() + 'em';
               piece.classname      = 'x' + j.toString() + ' y' + i.toString();
 
               this.appendChild(piece);
