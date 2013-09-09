@@ -3,9 +3,12 @@
 
   <head>
 
+    <meta charset="utf-8"/>
+
     <script type="text/javascript" src="xtags/dist/x-tag-components.js"></script>
     <style type="text/css" src="xtags/dist/x-tag-components.css"></style>
 
+    <script type="text/javascript" src="../tags/sc-autoradio.js"></script>
     <script type="text/javascript" src="../tags/sc-helloworld.js"></script>
 
   </head>
@@ -13,6 +16,7 @@
   <body>
 
 	<sc-helloworld></sc-helloworld>
+	<sc-autoradio name="autoradio" vals="foo|bar=Bar bar bar|baz|quuz=quux" recsplit="|" valsplit="="></sc-autoradio>
 
   </body>
 
