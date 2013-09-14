@@ -16,9 +16,9 @@ Containers
 New Tags
 --------
 
- * <blink>
- * <sc-card> w/ 3d css flip
- * <sc-markdown>
- * <sc-d3> various
-   * <sc-d3-sparkline>
+ * &lt;blink&gt;
+ * &lt;sc-card&gt; w/ 3d css flip
+ * &lt;sc-markdown&gt;
+ * &lt;sc-d3&gt; various
+   * &lt;sc-d3-sparkline&gt;
    
