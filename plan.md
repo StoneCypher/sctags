@@ -25,3 +25,6 @@ New Tags
  * &lt;sc-codemirror&gt;
  * &lt;sc-win8&gt; various
    * &lt;sc-win8-store&gt;
+   * &lt;sc-win8-appbar&gt;
+ * &lt;sc-vcenter&gt;
+ * &lt;sc-orient&gt;
