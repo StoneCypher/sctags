@@ -2,6 +2,7 @@
 
 | Symbol             | Meaning                             |
 |:------------------:|-------------------------------------|
+| :100:              | Done, considered final              |
 | :white_check_mark: | Done, works                         |
 | :clock2:           | Underway                            |
 | :x:                | Not implemented yet                 |
@@ -10,10 +11,11 @@
 | :memo:             | Review came back w/ notes           |
 | :game_die:         | Waiting on tests                    |
 | :lemon:            | Failed tests                        |
+| :pencil:           | Done, needs docs                    |
 | :honeybee:         | Done, buggy                         |
 | :tropical_fish:    | Done, but fishy: insufficient tests |
 
-Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :memo:, :game_die:, :lemon:, :white_check_mark:, :honeybee:, :tropical_fish: requires explanation
+Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :memo:, :game_die:, :lemon:, :white_check_mark:, :pencil:, :honeybee:, :tropical_fish: requires explanation
 
 
 
