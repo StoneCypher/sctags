@@ -9,6 +9,8 @@
 ## New Tags
 
 ### Containers
+ - :clock2: `<sc-hbox>`
+ - :clock2: `<sc-vbox>`
  - :x: `<sc-heirarchy>`
 
 ### Worrydream-style Live Docs
@@ -45,14 +47,14 @@
  - :x: `<sc-irc>`
 
 ### Graphs
- - :x: `<sc-d3>` various
+ - :soon: `<sc-d3>` various
    - :x: `<sc-d3base>`
-   - :x: `<sc-spark>` sparkline
+   - :soon: `<sc-spark>` sparkline
    - :x: `<sc-calendar>`
      - :x: `<sc-piecalendar>`
-   - :x: `<sc-pie>`
+   - :soon: `<sc-pie>`
      - :x: `<sc-donut>`
-     - :x: `<sc-progressdonut>`
+     - :soon: `<sc-progressdonut>`
    - :x: `<sc-bar>`
      - :x: `<sc-stackedbar>`
    - :x: `<sc-area>`
@@ -81,6 +83,8 @@
 
 ### Game
  - :x: `<sc-card>` w/ 3d css flip
+   - :x: `<sc-deck>`
+   - :rage2: `<sc->` TODO can't remember the name, the space on the board where cards are expected to be played, like the 4+4 at the top left and right respectively of freecell
  - :white_check_mark: `<sc-chessboard>`
    - :white_check_mark: `<sc-chesspiece>`
  - :x: `<sc-goboard>`
@@ -90,7 +94,7 @@
  - :x: `<sc-minesweeper>`
 
 ### Util
- - :x: `<sc-markdown>`
+ - :soon: `<sc-markdown>`
  - :x: `<sc-highlight>` various
  - :x: `<sc-codemirror>`
 
@@ -104,4 +108,4 @@
  - :x: `<sc-orient>`
 
 ### Non-visual
- - :x: `<sc-googleanalytics>`
+ - :soon: `<sc-googleanalytics>`
