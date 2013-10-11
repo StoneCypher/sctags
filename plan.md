@@ -9,11 +9,12 @@
 ## New Tags
 
 ### Containers
+- [ ] `<sc-heirarchy>`
 
 ### Worrydream-style Live Docs
 
 ### UI
- - [x] `<sc-helloworld>`
+- [x] `<sc-helloworld>`
  - [ ] `<sc-sprite>`
    - [ ] `<sc-asprite>`
  - [x] `<sc-autoradio>`
@@ -41,6 +42,8 @@
    - [ ] `<sc-calendar>`
      - [ ] `<sc-piecalendar>`
    - [ ] `<sc-pie>`
+     - [ ] `<sc-donut>`
+     - [ ] `<sc-progressdonut>`
    - [ ] `<sc-bar>`
      - [ ] `<sc-stackedbar>`
    - [ ] `<sc-area>`
