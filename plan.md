@@ -7,12 +7,13 @@
 | :x:                | Not implemented yet                 |
 | :soon:             | Next on the list                    |
 | :eyeglasses:       | In review                           |
-| :die_game:         | Waiting on tests                    |
+| :memo:             | Review came back w/ notes           |
+| :game_die:         | Waiting on tests                    |
 | :lemon:            | Failed tests                        |
 | :honeybee:         | Done, buggy                         |
 | :tropical_fish:    | Done, but fishy: insufficient tests |
 
-Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :die_game:, :lemon:, :white_check_mark:, :honeybee:, :tropical_fish: requires explanation
+Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :memo:, :game_die:, :lemon:, :white_check_mark:, :honeybee:, :tropical_fish: requires explanation
 
 
 
@@ -28,6 +29,8 @@ Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :die_game:, :lemo
  - :clock2: `<sc-hbox>`
  - :clock2: `<sc-vbox>`
  - :x: `<sc-heirarchy>`
+ - :x: `<sc-vcenter>`
+ - :x: `<sc-orient>`
 
 ### Worrydream-style Live Docs
 
@@ -44,11 +47,13 @@ Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :die_game:, :lemo
 
 ### i18n
  - :scream: `<sc-i18n>` very doubleplus bad impl, better coming soon
+   - :x: `<sc-i18n-number>`
    - :x: `<sc-i18n-price>`
    - :x: `<sc-i18n-datetime>`
      - :x: `<sc-i18n-time>`
      - :x: `<sc-i18n-date>`
    - :x: `<sc-i18n-quote>`
+   - :x: `<sc-i18n-phone>`
 
 ### Embeds
  - :shit: `<sc-youtube>` Terrible impl, better coming soon
@@ -61,6 +66,8 @@ Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :die_game:, :lemo
  - :honeybee: `<sc-bridge>`
  - :x: `<sc-livechat>`
  - :x: `<sc-irc>`
+ - :clock2: `<sc-ajaxqueue>`
+   - :soon: `<sc-cometqueue>`
 
 ### Graphs
  - :soon: `<sc-d3>` various
@@ -107,7 +114,13 @@ Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :die_game:, :lemo
    - :x: `<sc-gopiece>`
  - :x: `<sc-shogiboard>`
    - :x: `<sc-shogipiece>`
+ - :clock2: `<sc-board>`
+   - :x: `<sc-squareboard>`
+   - :x: `<sc-isoboard>`
+   - :clock2: `<sc-hexboard>`
+   - :x: `<sc-triangleboard>`
  - :x: `<sc-minesweeper>`
+ - :x: `<sc-trophycase>`
 
 ### Util
  - :soon: `<sc-markdown>`
@@ -115,13 +128,27 @@ Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :die_game:, :lemo
  - :x: `<sc-codemirror>`
 
 ### Platform
+
+#### Agnostic Wrappers
+ - :x: `<sc-platf-store>`
+ - :x: `<sc-platf-appbar>`
+
+#### Win8
  - :x: `<sc-win8>` various
    - :x: `<sc-win8-store>`
    - :x: `<sc-win8-appbar>`
    - :x: `<sc-win8-charmbar>`
    - :x: `<sc-win8-file>`
- - :x: `<sc-vcenter>`
- - :x: `<sc-orient>`
+
+#### Win8 Phone
+ - :x: `<sc-win8p>` various
+   - :x: `<sc-win8p-store>`
+   - :x: `<sc-win8p-appbar>`
+
+#### iOS
+ - :x: `<sc-ios>` various
+   - :x: `<sc-ios-store>`
+   - :x: `<sc-ios-appbar>`
 
 ### Non-visual
  - :soon: `<sc-googleanalytics>`
