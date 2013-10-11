@@ -1,12 +1,18 @@
 # ScTags Plan
 
-Any emoji used other than :x:, :clock2:, :soon:, :white_check_mark:, :beetle: requires explanation
+| Symbol             | Meaning                             |
+|:------------------:|-------------------------------------|
+| :white_check_mark: | Done, works                         |
+| :clock2:           | Underway                            |
+| :x:                | Not implemented yet                 |
+| :soon:             | Next on the list                    |
+| :eyeglasses:       | In review                           |
+| :die_game:         | Waiting on tests                    |
+| :lemon:            | Failed tests                        |
+| :honeybee:         | Done, buggy                         |
+| :tropical_fish:    | Done, but fishy: insufficient tests |
 
-:x: - Not implemented yet
-:clock2: - Underway
-:soon: - Next on the list
-:white_check_mark: - Done, works
-:beetle: - Done, buggy
+Any emoji used other than :x:, :clock2:, :soon:, :eyeglasses:, :die_game:, :lemon:, :white_check_mark:, :honeybee:, :tropical_fish: requires explanation
 
 
 
@@ -52,7 +58,7 @@ Any emoji used other than :x:, :clock2:, :soon:, :white_check_mark:, :beetle: re
    - :x: `<kiglouder>`
 
 ### Network
- - :beetle: `<sc-bridge>`
+ - :honeybee: `<sc-bridge>`
  - :x: `<sc-livechat>`
  - :x: `<sc-irc>`
 
