@@ -102,8 +102,8 @@
         pieceFront.style.display   = 'inline-block';
         pieceBack.style.display    = 'inline-block';
 
-        pieceFront.style.top       = '-0.1em';
-        pieceBack.style.top        = '-0.1em';
+        pieceFront.style.top       = '-0.2em';
+        pieceBack.style.top        = '-0.2em';
 
         pieceFront.style.left      = '0';
         pieceBack.style.left       = '0';
