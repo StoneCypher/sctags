@@ -1,92 +1,74 @@
-ScTags Plan
-===========
+# ScTags Plan
+
+## Support for Removed Tags
+ * `<blink>`
+ * `<marquee>`
 
 
 
-Base Object
------------
+## New Tags
 
+### Containers
 
+### Worrydream-style Live Docs
 
-Containers
-----------
-
-
-
-Support for Removed Tags
---------
-
- * &lt;blink&gt;
- * &lt;marquee&gt;
-
-
-
-New Tags
---------
-
-UI
-==
- * &lt;sc-sprite&gt;
-   * &lt;sc-asprite&gt;
+### UI
+ * `<sc-sprite>`
+   * `<sc-asprite>`
 
 ### Embeds
- * &lt;sc-youtube&gt;
-   * &lt;sc-brolsma&gt;
-   * &lt;sc-rickroll&gt;
- * &lt;sc-vimeo&gt;
-   * &lt;sc-kiglouder&gt;
+ * `<sc-youtube>`
+   * `<sc-brolsma>`
+   * `<sc-rickroll>`
+ * `<sc-vimeo>`
+   * `<sc-kiglouder>`
 
 ### Graphs
- * &lt;sc-d3&gt; various
-   * &lt;sc-spark&gt; d3 sparkline
-   * &lt;sc-calendar&gt;
-     * &lt;sc-piecalendar&gt;
-   * &lt;sc-pie&gt;
-   * &lt;sc-bar&gt;
-     * &lt;sc-stackedbar&gt;
-   * &lt;sc-area&gt;
-   * &lt;sc-radar&gt;
-   * &lt;sc-map&gt;
-     * &lt;sc-chloropleth&gt;
-   * &lt;sc-hloc&gt;
-   * &lt;sc-forcegraph&gt;
-   * &lt;sc-chord&gt;
-   * &lt;sc-dendrogram&gt;
-   * &lt;sc-nodelinktree&gt;
-   * &lt;sc-sunburst&gt;
-   * &lt;sc-treemap&gt;
-   * &lt;sc-sunburst&gt;
-   * &lt;sc-parallelcoord&gt;
-   * &lt;sc-slopegraph&gt;
-   * &lt;sc-cubism&gt;
-   * &lt;sc-scatterplot&gt;
-     * &lt;sc-scatterplotmatrix&gt;
-   * &lt;sc-voronoi&gt;
-   * &lt;sc-sankey&gt;
-   * &lt;sc-cooccurrencematrix&gt;
-   * &lt;sc-bullet&gt; and &lt;sc-vbullet&gt;
+ * `<sc-d3>` various
+   * `<sc-spark>` d3 sparkline
+   * `<sc-calendar>`
+     * `<sc-piecalendar>`
+   * `<sc-pie>`
+   * `<sc-bar>`
+     * `<sc-stackedbar>`
+   * `<sc-area>`
+   * `<sc-radar>`
+   * `<sc-map>`
+     * `<sc-chloropleth>`
+   * `<sc-hloc>`
+   * `<sc-forcegraph>`
+   * `<sc-chord>`
+   * `<sc-dendrogram>`
+   * `<sc-nodelinktree>`
+   * `<sc-sunburst>`
+   * `<sc-treemap>`
+   * `<sc-sunburst>`
+   * `<sc-parallelcoord>`
+   * `<sc-slopegraph>`
+   * `<sc-cubism>`
+   * `<sc-scatterplot>`
+     * `<sc-scatterplotmatrix>`
+   * `<sc-voronoi>`
+   * `<sc-sankey>`
+   * `<sc-cooccurrencematrix>`
+   * `<sc-bullet>` and `<sc-vbullet>`
    * Not sure what to call http://neuralengr.com/asifr/journals/
    * Not sure what to call http://bibviz.com/
 
-Game
-====
- * &lt;sc-card&gt; w/ 3d css flip
+### Game
+ * `<sc-card>` w/ 3d css flip
 
-Util
-====
- * &lt;sc-markdown&gt;
- * &lt;sc-highlight&gt; various
- * &lt;sc-codemirror&gt;
+### Util
+ * `<sc-markdown>`
+ * `<sc-highlight>` various
+ * `<sc-codemirror>`
 
-Platform
-========
- * &lt;sc-win8&gt; various
-   * &lt;sc-win8-store&gt;
-   * &lt;sc-win8-appbar&gt;
- * &lt;sc-vcenter&gt;
- * &lt;sc-orient&gt;
+### Platform
+ * `<sc-win8>` various
+   * `<sc-win8-store>`
+   * `<sc-win8-appbar>`
+ * `<sc-vcenter>`
+ * `<sc-orient>`
 
-Non-visual
-==========
-
- * &lt;sc-googleanalytics&gt;
+### Non-visual
+ * `<sc-googleanalytics>`
