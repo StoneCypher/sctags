@@ -19,6 +19,9 @@ New Tags
  * &lt;blink&gt;
  * &lt;youtube&gt;
    * &lt;brolsma&gt;
+   * &lt;rickroll&gt;
+ * &lt;vimeo&gt;
+   * &lt;kiglouder&gt;
  * &lt;sc-card&gt; w/ 3d css flip
  * &lt;sc-markdown&gt;
  * &lt;sc-d3&gt; various
