@@ -1,5 +1,15 @@
 # ScTags Plan
 
+Any emoji used other than :x:, :clock2:, :soon:, :white_check_mark:, :beetle: requires explanation
+
+:x: - Not implemented yet
+:clock2: - Underway
+:soon: - Next on the list
+:white_check_mark: - Done, works
+:beetle: - Done, buggy
+
+
+
 ## Support for Removed Tags
  - :clock2: `<blink>`
  - :x: `<marquee>`
@@ -27,7 +37,7 @@
  - :x: `<sc-sorttable>`
 
 ### i18n
- - :white_check_mark: `<sc-i18n>`
+ - :scream: `<sc-i18n>` very doubleplus bad impl, better coming soon
    - :x: `<sc-i18n-price>`
    - :x: `<sc-i18n-datetime>`
      - :x: `<sc-i18n-time>`
@@ -35,7 +45,7 @@
    - :x: `<sc-i18n-quote>`
 
 ### Embeds
- - :x: `<sc-youtube>`
+ - :shit: `<sc-youtube>` Terrible impl, better coming soon
    - :x: `<brolsma>`
    - :x: `<rickroll>`
  - :x: `<sc-vimeo>`
