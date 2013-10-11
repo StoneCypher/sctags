@@ -13,10 +13,17 @@ Containers
 
 
 
-New Tags
+Support for Removed Tags
 --------
 
  * &lt;blink&gt;
+ * &lt;marquee&gt;
+
+
+
+New Tags
+--------
+
  * &lt;sc-googleanalytics&gt;
  * &lt;sc-youtube&gt;
    * &lt;sc-brolsma&gt;
