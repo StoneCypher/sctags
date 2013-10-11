@@ -46,6 +46,9 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :memo:, :g
  - :clock2: `<sc-bottombar>`
  - :x: `<sc-tabbar>`
  - :x: `<sc-sorttable>`
+ - :clock2: `<sc-breadcrumb>`
+ - :x: `<sc-toolbar>`
+ - :x: `<sc-spinner>`
 
 ### i18n
  - :scream: `<sc-i18n>` very doubleplus bad impl, better coming soon
@@ -123,6 +126,8 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :memo:, :g
    - :x: `<sc-triangleboard>`
  - :x: `<sc-minesweeper>`
  - :x: `<sc-trophycase>`
+ - :x: `<sc-maze>`
+   - :x: `<sc-hexmaze>`
 
 ### Util
  - :soon: `<sc-markdown>`
@@ -154,3 +159,4 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :memo:, :g
 
 ### Non-visual
  - :soon: `<sc-googleanalytics>`
+ - :fire: `<sc-localJson>` so broken
