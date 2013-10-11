@@ -22,7 +22,8 @@ New Tags
  * &lt;sc-card&gt; w/ 3d css flip
  * &lt;sc-markdown&gt;
  * &lt;sc-d3&gt; various
-   * &lt;sc-d3-sparkline&gt;
+   * &lt;sc-spark&gt; d3 sparkline
+   * &lt;sc-calendar&gt;
  * &lt;sc-highlight&gt; various
  * &lt;sc-codemirror&gt;
  * &lt;sc-win8&gt; various
