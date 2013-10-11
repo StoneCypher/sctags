@@ -30,3 +30,5 @@ New Tags
    * &lt;sc-win8-appbar&gt;
  * &lt;sc-vcenter&gt;
  * &lt;sc-orient&gt;
+ * &lt;sc-sprite&gt;
+   * &lt;sc-asprite&gt;
