@@ -37,7 +37,24 @@ New Tags
    * &lt;sc-calendar&gt;
    * &lt;sc-pie&gt;
    * &lt;sc-bar&gt;
+     * &lt;sc-stackedbar&gt;
    * &lt;sc-area&gt;
+   * &lt;sc-radar&gt;
+   * &lt;sc-map&gt;
+     * &lt;sc-chloropleth&gt;
+   * &lt;sc-hloc&gt;
+   * &lt;sc-forcegraph&gt;
+   * &lt;sc-chord&gt;
+   * &lt;sc-dendrogram&gt;
+   * &lt;sc-nodelinktree&gt;
+   * &lt;sc-treemap&gt;
+   * &lt;sc-sunburst&gt;
+   * &lt;sc-parallelcoord&gt;
+   * &lt;sc-scatterplot&gt;
+     * &lt;sc-scatterplotmatrix&gt;
+   * &lt;sc-voronoi&gt;
+   * &lt;sc-sankey&gt;
+   * &lt;sc-cooccurrencematrix&gt;
  * &lt;sc-highlight&gt; various
  * &lt;sc-codemirror&gt;
  * &lt;sc-win8&gt; various
