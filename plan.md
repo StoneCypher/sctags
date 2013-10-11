@@ -1,97 +1,97 @@
 # ScTags Plan
 
 ## Support for Removed Tags
- - [ ] `<blink>`
- - [ ] `<marquee>`
+ - :clock2: `<blink>`
+ - :red_circle: `<marquee>`
 
 
 
 ## New Tags
 
 ### Containers
-- [ ] `<sc-heirarchy>`
+ - :red_circle: `<sc-heirarchy>`
 
 ### Worrydream-style Live Docs
 
 ### UI
-- [x] `<sc-helloworld>`
- - [ ] `<sc-sprite>`
-   - [ ] `<sc-asprite>`
- - [x] `<sc-autoradio>`
- - [ ] `<sc-topprogressline>` like nprogress
+ - :white_check_mark: `<sc-helloworld>`
+ - :red_circle: `<sc-sprite>`
+   - :red_circle: `<sc-asprite>`
+ - :white_check_mark: `<sc-autoradio>`
+ - :clock2: `<sc-topprogressline>` like nprogress
 
 ### i18n
- - [x] `<sc-i18n>`
-   - [ ] `<sc-i18n-price>`
-   - [ ] `<sc-i18n-datetime>`
-     - [ ] `<sc-i18n-time>`
-     - [ ] `<sc-i18n-date>`
-   - [ ] `<sc-i18n-quote>`
+ - :white_check_mark: `<sc-i18n>`
+   - :red_circle: `<sc-i18n-price>`
+   - :red_circle: `<sc-i18n-datetime>`
+     - :red_circle: `<sc-i18n-time>`
+     - :red_circle: `<sc-i18n-date>`
+   - :red_circle: `<sc-i18n-quote>`
 
 ### Embeds
- - [ ] `<sc-youtube>`
-   - [ ] `<brolsma>`
-   - [ ] `<rickroll>`
- - [ ] `<sc-vimeo>`
-   - [ ] `<kiglouder>`
+ - :red_circle: `<sc-youtube>`
+   - :red_circle: `<brolsma>`
+   - :red_circle: `<rickroll>`
+ - :red_circle: `<sc-vimeo>`
+   - :red_circle: `<kiglouder>`
 
 ### Graphs
- - [ ] `<sc-d3>` various
-   - [ ] `<sc-d3base>`
-   - [ ] `<sc-spark>` sparkline
-   - [ ] `<sc-calendar>`
-     - [ ] `<sc-piecalendar>`
-   - [ ] `<sc-pie>`
-     - [ ] `<sc-donut>`
-     - [ ] `<sc-progressdonut>`
-   - [ ] `<sc-bar>`
-     - [ ] `<sc-stackedbar>`
-   - [ ] `<sc-area>`
-   - [ ] `<sc-radar>`
-   - [ ] `<sc-map>`
-     - [ ] `<sc-chloropleth>`
-   - [ ] `<sc-hloc>`
-   - [ ] `<sc-forcegraph>`
-   - [ ] `<sc-chord>`
-   - [ ] `<sc-dendrogram>`
-   - [ ] `<sc-nodelinktree>`
-   - [ ] `<sc-sunburst>`
-   - [ ] `<sc-treemap>`
-   - [ ] `<sc-sunburst>`
-   - [ ] `<sc-parallelcoord>`
-   - [ ] `<sc-slopegraph>`
-   - [ ] `<sc-cubism>`
-   - [ ] `<sc-scatterplot>`
-     - [ ] `<sc-scatterplotmatrix>`
-   - [ ] `<sc-voronoi>`
-   - [ ] `<sc-sankey>`
-   - [ ] `<sc-cooccurrencematrix>`
-   - [ ] `<sc-bullet>` and `<sc-vbullet>`
+ - :red_circle: `<sc-d3>` various
+   - :red_circle: `<sc-d3base>`
+   - :red_circle: `<sc-spark>` sparkline
+   - :red_circle: `<sc-calendar>`
+     - :red_circle: `<sc-piecalendar>`
+   - :red_circle: `<sc-pie>`
+     - :red_circle: `<sc-donut>`
+     - :red_circle: `<sc-progressdonut>`
+   - :red_circle: `<sc-bar>`
+     - :red_circle: `<sc-stackedbar>`
+   - :red_circle: `<sc-area>`
+   - :red_circle: `<sc-radar>`
+   - :red_circle: `<sc-map>`
+     - :red_circle: `<sc-chloropleth>`
+   - :red_circle: `<sc-hloc>`
+   - :red_circle: `<sc-forcegraph>`
+   - :red_circle: `<sc-chord>`
+   - :red_circle: `<sc-dendrogram>`
+   - :red_circle: `<sc-nodelinktree>`
+   - :red_circle: `<sc-sunburst>`
+   - :red_circle: `<sc-treemap>`
+   - :red_circle: `<sc-sunburst>`
+   - :red_circle: `<sc-parallelcoord>`
+   - :red_circle: `<sc-slopegraph>`
+   - :red_circle: `<sc-cubism>`
+   - :red_circle: `<sc-scatterplot>`
+     - :red_circle: `<sc-scatterplotmatrix>`
+   - :red_circle: `<sc-voronoi>`
+   - :red_circle: `<sc-sankey>`
+   - :red_circle: `<sc-cooccurrencematrix>`
+   - :red_circle: `<sc-bullet>` and `<sc-vbullet>`
    * Not sure what to call http://neuralengr.com/asifr/journals/
    * Not sure what to call http://bibviz.com/
 
 ### Game
- - [ ] `<sc-card>` w/ 3d css flip
- - [x] `<sc-chessboard>`
-   - [x] `<sc-chesspiece>`
- - [ ] `<sc-goboard>`
-   - [ ] `<sc-gopiece>`
- - [ ] `<sc-shogiboard>`
-   - [ ] `<sc-shogipiece>`
+ - :red_circle: `<sc-card>` w/ 3d css flip
+ - :white_check_mark: `<sc-chessboard>`
+   - :white_check_mark: `<sc-chesspiece>`
+ - :red_circle: `<sc-goboard>`
+   - :red_circle: `<sc-gopiece>`
+ - :red_circle: `<sc-shogiboard>`
+   - :red_circle: `<sc-shogipiece>`
 
 ### Util
- - [ ] `<sc-markdown>`
- - [ ] `<sc-highlight>` various
- - [ ] `<sc-codemirror>`
+ - :red_circle: `<sc-markdown>`
+ - :red_circle: `<sc-highlight>` various
+ - :red_circle: `<sc-codemirror>`
 
 ### Platform
- - [ ] `<sc-win8>` various
-   - [ ] `<sc-win8-store>`
-   - [ ] `<sc-win8-appbar>`
-   - [ ] `<sc-win8-charmbar>`
-   - [ ] `<sc-win8-file>`
- - [ ] `<sc-vcenter>`
- - [ ] `<sc-orient>`
+ - :red_circle: `<sc-win8>` various
+   - :red_circle: `<sc-win8-store>`
+   - :red_circle: `<sc-win8-appbar>`
+   - :red_circle: `<sc-win8-charmbar>`
+   - :red_circle: `<sc-win8-file>`
+ - :red_circle: `<sc-vcenter>`
+ - :red_circle: `<sc-orient>`
 
 ### Non-visual
- - [ ] `<sc-googleanalytics>`
+ - :red_circle: `<sc-googleanalytics>`
