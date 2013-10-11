@@ -9,7 +9,7 @@ xtag.register('sc-helloworld', {
 
   lifecycle : {
 
-    created          : function() { this.innerHTML = 'Hello, world!'; },    
+    created          : function() { this.innerHTML = 'Hello, world! &#x1f30e;'; },    
     inserted         : function() { },
     removed          : function() { },
     attributeChanged : function() { }
