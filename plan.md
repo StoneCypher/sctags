@@ -134,11 +134,14 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-trophycase>`
  - :x: `<sc-maze>`
    - :x: `<sc-hexmaze>`
+ - :x: `<sc-magic7ball>`
+ - :x: `<sc-fortunecookie>`
 
 ### Util
  - :soon: `<sc-markdown>`
  - :x: `<sc-highlight>` various
  - :x: `<sc-codemirror>`
+ - :x: `<sc-randomfrom>`
 
 ### Platform
 
