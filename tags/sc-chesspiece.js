@@ -75,7 +75,7 @@
         this.style.zIndex          = '1';
 
         var whiteFrontColor        = this.getAttribute('wfc') || 'black';
-        var whiteBackColor         = this.getAttribute('wbc') || 'white';
+        var whiteBackColor         = this.getAttribute('wbc') || '#ff8';
         var blackFrontColor        = this.getAttribute('bfc') || 'black';
         var blackBackColor         = this.getAttribute('bbc') || '#03b';
 
