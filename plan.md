@@ -63,6 +63,12 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
    - :x: `<rickroll>`
  - :x: `<sc-vimeo>`
    - :x: `<kiglouder>`
+ - :x: `<sc-facebook>`
+   - :x: `<sc-facebookpost>`
+ - :x: `<sc-twitter>`
+   - :x: `<sc-twitterpost>`
+ - (other social networks a-plenty)
+ - :x: `<sc-crowdtilt>`
 
 ### Network
  - :honeybee: `<sc-bridge>`
