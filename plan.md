@@ -61,9 +61,15 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
    - :x: `<sc-i18n-phone>`
 
 ### Embeds
- - :shit: `<sc-youtube>` Terrible impl, better coming soon
-   - :x: `<brolsma>`
-   - :x: `<rickroll>`
+ - :white_check_mark: :watch: `<sc-youtube>` More properties supported soon
+   - :white_check_mark: `<brolsma>`
+     - :white_check_mark: `<numanuma>`
+   - :white_check_mark: `<rickroll>`
+   - :white_check_mark: `<mcroll>`
+   - :honeybee: `<leekspin>`
+   - :white_check_mark: `<gangnam>`
+   - :white_check_mark: `<trololo>`
+   - :honeybee: `<badgerbadger>`
  - :x: `<sc-vimeo>`
    - :x: `<kiglouder>`
  - :x: `<sc-facebook>`
