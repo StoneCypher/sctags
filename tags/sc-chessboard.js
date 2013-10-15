@@ -68,8 +68,7 @@
       initialize : function() {
 
         this.style.position = 'relative';
-
-// todo this.style.border = '0.1em solid #4F341A';
+// todo this.style.border   = '0.1em solid #4F341A';
 
         this.table = document.createElement('table');
         this.table.style.border = '0 transparent none';
@@ -88,7 +87,7 @@
             
             td.innerHTML             = '';
             td.style.backgroundColor = ((i ^ j) & 1)? '#d18b47':'#ffce9e';
-            td.style.outline          = '0.05em solid #684423';
+            td.style.outline         = '0.05em solid #684423';
             td.style.width           = '2em';
             td.style.height          = '2em';
             td.style.padding         = '0';
