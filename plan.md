@@ -33,6 +33,10 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-heirarchy>`
  - :x: `<sc-vcenter>`
  - :x: `<sc-orient>`
+ - :clock2: `<topbar>`
+ - :clock2: `<bottombar>`
+ - :clock2: `<leftbar>`
+ - :clock2: `<rightbar>`
 
 ### Worrydream-style Live Docs
 
