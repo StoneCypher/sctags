@@ -33,10 +33,10 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-heirarchy>`
  - :x: `<sc-vcenter>`
  - :x: `<sc-orient>`
- - :clock2: `<topbar>`
- - :clock2: `<bottombar>`
- - :clock2: `<leftbar>`
- - :clock2: `<rightbar>`
+ - :shit: `<topbar>` Need to add a "cuts" directive so they won't overlap
+ - :shit: `<bottombar>` like `<bottombar topcut="topbarid">` or whatever
+ - :shit: `<leftbar>`
+ - :shit: `<rightbar>`
 
 ### Worrydream-style Live Docs
 
