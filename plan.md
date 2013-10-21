@@ -8,7 +8,7 @@
 | :x:                | Not implemented yet                 |
 | :soon:             | Next on the list                    |
 | :eyeglasses:       | In review                           |
-| :paperclip:        | Review came back w/ notes           |
+|  :paperclip:        | Review came back w/ notes           |
 | :game_die:         | Waiting on tests                    |
 | :lemon:            | Failed tests                        |
 | :pencil:           | Done, needs docs                    |
@@ -33,10 +33,10 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-heirarchy>`
  - :x: `<sc-vcenter>`
  - :x: `<sc-orient>`
- - :shit: `<topbar>` Need to add a "cuts" directive so they won't overlap
- - :shit: `<bottombar>` like `<bottombar topcut="topbarid">` or whatever
- - :shit: `<leftbar>`
- - :shit: `<rightbar>`
+ - :shit: :tropical_fish: `<topbar>` Need to add a "cuts" directive so they won't overlap
+ - :shit: :tropical_fish: `<bottombar>` like `<bottombar topcut="topbarid">` or whatever
+ - :shit: :tropical_fish: `<leftbar>`
+ - :shit: :tropical_fish: `<rightbar>` (this status is shitfish)
 
 ### Worrydream-style Live Docs
 
@@ -152,6 +152,9 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-highlight>` various
  - :x: `<sc-codemirror>`
  - :x: `<sc-randomfrom>`
+
+### Embeds
+ - :x: `<sc-inkfilepicker>`
 
 ### Platform
 
