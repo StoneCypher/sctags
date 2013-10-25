@@ -1,21 +1,21 @@
 # ScTags Plan
 
-| Symbol             | Meaning                             |
-|:------------------:|-------------------------------------|
-| :100:              | Done, considered final              |
-| :white_check_mark: | Done, works                         |
-| :clock2:           | Underway                            |
-| :x:                | Not implemented yet                 |
-| :soon:             | Next on the list                    |
-| :eyeglasses:       | In review                           |
-|  :paperclip:        | Review came back w/ notes           |
-| :game_die:         | Waiting on tests                    |
-| :lemon:            | Failed tests                        |
-| :pencil:           | Done, needs docs                    |
-| :honeybee:         | Done, buggy                         |
-| :tropical_fish:    | Done, but fishy: insufficient tests |
+| Symbol              | Meaning                             |
+|:-------------------:|-------------------------------------|
+| :100:               | Done, considered final              |
+| :large_blue_circle: | Done, works                         |
+| :clock2:            | Underway                            |
+| :x:                 | Not implemented yet                 |
+| :soon:              | Next on the list                    |
+| :eyeglasses:        | In review                           |
+| :paperclip:         | Review came back w/ notes           |
+| :game_die:          | Waiting on tests                    |
+| :lemon:             | Failed tests                        |
+| :pencil:            | Done, needs docs                    |
+| :honeybee:          | Done, buggy                         |
+| :tropical_fish:     | Done, but fishy: insufficient tests |
 
-Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip:, :game_die:, :lemon:, :white_check_mark:, :pencil:, :honeybee:, :tropical_fish: requires explanation
+Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip:, :game_die:, :lemon:, :large_blue_circle:, :pencil:, :honeybee:, :tropical_fish: requires explanation
 
 
 
@@ -35,10 +35,10 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
 ### Worrydream-style Live Docs
 
 ### UI
- - :white_check_mark: `<sc-helloworld>`
+ - :large_blue_circle: `<sc-helloworld>`
  - :x: `<sc-sprite>`
    - :x: `<sc-asprite>`
- - :white_check_mark: `<sc-autoradio>`
+ - :large_blue_circle: `<sc-autoradio>`
  - :clock2: `<sc-topprogressline>` like nprogress
  - :x: `<sc-topprogressspinner>` like nprogress
  - :clock2: `<sc-topbars>`
@@ -61,14 +61,14 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
    - :x: `<sc-i18n-phone>`
 
 ### Embeds
- - :white_check_mark: :watch: `<sc-youtube>` More properties supported soon
-   - :white_check_mark: `<brolsma>`
-     - :white_check_mark: `<numanuma>`
-   - :white_check_mark: `<rickroll>`
-   - :white_check_mark: `<mcroll>`
+ - :large_blue_circle: :watch: `<sc-youtube>` More properties supported soon
+   - :large_blue_circle: `<brolsma>`
+     - :large_blue_circle: `<numanuma>`
+   - :large_blue_circle: `<rickroll>`
+   - :large_blue_circle: `<mcroll>`
    - :honeybee: `<leekspin>`
-   - :white_check_mark: `<gangnam>`
-   - :white_check_mark: `<trololo>`
+   - :large_blue_circle: `<gangnam>`
+   - :large_blue_circle: `<trololo>`
    - :honeybee: `<badgerbadger>`
  - :x: `<sc-vimeo>`
    - :x: `<kiglouder>`
@@ -125,8 +125,8 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-card>` w/ 3d css flip
    - :x: `<sc-deck>`
    - :rage2: `<sc->` TODO can't remember the name, the space on the board where cards are expected to be played, like the 4+4 at the top left and right respectively of freecell
- - :white_check_mark: `<sc-chessboard>`
-   - :white_check_mark: `<sc-chesspiece>`
+ - :large_blue_circle: `<sc-chessboard>`
+   - :large_blue_circle: `<sc-chesspiece>`
  - :x: `<sc-goboard>`
    - :x: `<sc-gopiece>`
  - :x: `<sc-shogiboard>`
