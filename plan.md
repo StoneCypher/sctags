@@ -61,6 +61,10 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
    - :x: `<sc-i18n-phone>`
 
 ### Embeds
+ - :x: `<sc-inkfilepicker>`
+ - :x: `<sc-masonryjs>`
+ - :x: `<sc-dropzonejs>`
+ - :x: `<sc-googlemap>`
  - :large_blue_circle: :watch: `<sc-youtube>` More properties supported soon
    - :large_blue_circle: `<brolsma>`
      - :large_blue_circle: `<numanuma>`
@@ -72,6 +76,7 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
    - :honeybee: `<badgerbadger>`
  - :x: `<sc-vimeo>`
    - :x: `<kiglouder>`
+ - :x: `<sc-soundcloud>`
  - :x: `<sc-facebook>`
    - :x: `<sc-facebookpost>`
  - :x: `<sc-twitter>`
@@ -148,10 +153,6 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-highlight>` various
  - :x: `<sc-codemirror>`
  - :x: `<sc-randomfrom>`
-
-### Embeds
- - :x: `<sc-inkfilepicker>`
- - :x: `<sc-masonryjs>`
 
 ### Platform
 
