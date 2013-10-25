@@ -19,12 +19,6 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
 
 
 
-## Support for Removed Tags
- - :clock2: `<blink>`
- - :x: `<marquee>`
-
-
-
 ## New Tags
 
 ### Containers
@@ -46,6 +40,7 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
    - :x: `<sc-asprite>`
  - :white_check_mark: `<sc-autoradio>`
  - :clock2: `<sc-topprogressline>` like nprogress
+ - :x: `<sc-topprogressspinner>` like nprogress
  - :clock2: `<sc-topbars>`
  - :clock2: `<sc-bottombar>`
  - :x: `<sc-tabbar>`
@@ -53,6 +48,7 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :clock2: `<sc-breadcrumb>`
  - :x: `<sc-toolbar>`
  - :x: `<sc-spinner>`
+ - :x: `<sc-clock>`
 
 ### i18n
  - :scream: `<sc-i18n>` very doubleplus bad impl, better coming soon
@@ -155,6 +151,7 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
 
 ### Embeds
  - :x: `<sc-inkfilepicker>`
+ - :x: `<sc-masonryjs>`
 
 ### Platform
 
@@ -182,3 +179,11 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
 ### Non-visual
  - :soon: `<sc-googleanalytics>`
  - :fire: `<sc-localJson>` so broken
+
+
+
+## Support for Removed Tags
+ - :clock2: `<blink>`
+ - :x: `<marquee>`
+ - :x: `<dir>`
+ - :x: `<menu>`
