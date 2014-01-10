@@ -46,6 +46,7 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-tabbar>`
  - :x: `<sc-sorttable>`
  - :clock2: `<sc-breadcrumb>`
+ - :soon: :clock2: `<sc-iconic>` I'm prioritizing this because I met the iconic guy
  - :x: `<sc-toolbar>`
  - :x: `<sc-spinner>`
  - :x: `<sc-clock>`
