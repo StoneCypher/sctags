@@ -2,7 +2,6 @@
 (function() {
 
   var startTimer = function() {
-    window.alert('started');
   }
 
   var stopTimer = function() {

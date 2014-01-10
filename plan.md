@@ -153,6 +153,7 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
  - :x: `<sc-highlight>` various
  - :x: `<sc-codemirror>`
  - :x: `<sc-randomfrom>`
+ - :x: `<sc-randomsample>`
 
 ### Platform
 
