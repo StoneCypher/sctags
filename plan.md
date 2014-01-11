@@ -168,6 +168,8 @@ Any emoji used other than :100:, :x:, :clock2:, :soon:, :eyeglasses:, :paperclip
    - :x: `<sc-win8-appbar>`
    - :x: `<sc-win8-charmbar>`
    - :x: `<sc-win8-file>`
+   - :x: `<sc-win8-tile>`
+   - :x: `<sc-win8-share>`
 
 #### Win8 Phone
  - :x: `<sc-win8p>` various
